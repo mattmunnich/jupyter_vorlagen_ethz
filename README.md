@@ -6,7 +6,7 @@ durchzuführenden Versuch anpassen.  Für einige Versuche gibt es angepasste Ver
 einige weitere Tipps zur Auswertung gegeben und für den Versuch hilfreiche Funktionen definiert werden.
 
  - Zur Auswertung werden die folgenden Python Pakete empfohlen:
-  1. Numpy (generelle Numerik)
+  1. Numpy (allgemeine mumerische Berechnungen)
   1. Scipy (für _Linear Regression_ und _Statistik_)
   1. Matplotlib (für Abbildungen)
   1. Uncertainties (für die Fehlerfortpflanzung)
