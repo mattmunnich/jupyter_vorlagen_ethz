@@ -9,7 +9,7 @@ einige weitere Tipps zur Auswertung gegeben und für den Versuch hilfreiche Funk
   1. Numpy (generelle Numerik)
   1. Scipy (für _Linear Regression_ und _Statistik_)
   1. Matplotlib (für Abbildungen)
-  1. Uncertainties (zur Fehlerfortpflanzun)
+  1. Uncertainties (für die Fehlerfortpflanzung)
   1. Pandas (zum Einlesen und Verarbeiten von Tabellen)
   
   
